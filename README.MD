@@ -24,7 +24,7 @@
 <img src="Images/4-logout.png">
 
 <h4>Personnalisation du formulaire d'authentification</h4>
-<img src="images/checkboxlogin.png">
+<img src="Images/checkboxlogin.png">
 
 <h4>La gestion des autorisations</h4>
 <p>Dans cette partir on a retiré aux utilisateurs normaux les droits de gestion des patient</p>
