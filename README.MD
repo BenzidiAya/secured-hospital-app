@@ -7,7 +7,7 @@
 <h4>Spring affiche un formulaire par defaut</h4>
 
 <p>On doit s'authentifer dans un premier lieu avec un compte par defaut en utilisant user comme login et un mot de passe générer automatiquement par Spring </p>
-<img src="Images/login.png">
+<img src="Images/4-login.png">
 
 <h4>Interface utilisateur</h4>
 <img src="Images/4-1.png">
@@ -21,7 +21,7 @@
 <p>Ici on a definit quelques utilisateurs avec des mots de passe encoder</p>
 
 <h4>l'Ajout de Logout</h4>
-<img src="Images/logout.png">
+<img src="Images/4-logout.png">
 
 <h4>Personnalisation du formulaire d'authentification</h4>
 <img src="images/checkboxlogin.png">
